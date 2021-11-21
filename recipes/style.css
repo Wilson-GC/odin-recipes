@@ -4,10 +4,13 @@
 }
 .beer{
     background-color: aquamarine;
+    color: darkgreen;
 }
 .onion{
     background-color: brown;
+    color:darkblue;
 }
 .mead{
     background-color: coral;
+    color:darkmagenta;
 }
