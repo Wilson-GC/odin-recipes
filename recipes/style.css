@@ -5,12 +5,15 @@
 .beer{
     background-color: aquamarine;
     color: darkgreen;
+    text-align: center;
 }
 .onion{
     background-color: brown;
     color:darkblue;
+    text-align: center;
 }
 .mead{
     background-color: coral;
     color:darkmagenta;
+    text-align: center;
 }
